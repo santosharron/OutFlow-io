@@ -8,6 +8,27 @@
 
 > **A comprehensive LinkedIn outreach automation platform with campaign management, AI-powered message generation, and automated profile scraping.**
 
+
+---
+
+## 🌐 **Live Application**
+
+**🚀 [OutFlo - Live Demo](https://out-flow-io.vercel.app/)**
+
+## 🎬 **Demo Video**
+
+**📹 [Watch Full Demo Video](https://drive.google.com/file/d/1--IZwGEP3wqeBIDvUdGMMIwtv6bH6FSv/view?usp=sharing)**
+
+**What the demo covers:**
+- Complete application walkthrough
+- LinkedIn profile scraping in action
+- Campaign creation and lead management
+- AI message generation
+- Export functionality
+- Responsive design showcase
+
+---
+
 ## 🎯 **Assignment Completion Status**
 
 ### ✅ **Core Requirements (100% Complete)**
@@ -221,25 +242,7 @@ NODE_ENV=development
 3. Click "Add to Campaign"
 4. Choose target campaign and confirm
 
----
-
-## 🌐 **Live Application**
-
-**🚀 [OutFlo - Live Demo](https://out-flow-io.vercel.app/)**
-
-## 🎬 **Demo Video**
-
-**📹 [Watch Full Demo Video](https://drive.google.com/file/d/1--IZwGEP3wqeBIDvUdGMMIwtv6bH6FSv/view?usp=sharing)**
-
-**What the demo covers:**
-- Complete application walkthrough
-- LinkedIn profile scraping in action
-- Campaign creation and lead management
-- AI message generation
-- Export functionality
-- Responsive design showcase
-
----
+--- 
 
 ## 🚀 **Deployment**
 
@@ -304,14 +307,6 @@ REACT_APP_API_URL=your_backend_url
 
 ---
 
-## 👨‍💻 **Developer**
-
-**Your Name**  
-Email: your.email@example.com  
-LinkedIn: [Your LinkedIn Profile]  
-GitHub: [Your GitHub Profile]
-
----
 
 ## 📄 **License**
 
