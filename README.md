@@ -223,9 +223,13 @@ NODE_ENV=development
 
 ---
 
+## 🌐 **Live Application**
+
+**🚀 [OutFlo - Live Demo](https://out-flow-io.vercel.app/)**
+
 ## 🎬 **Demo Video**
 
-**Loom Recording**: [Your Video Link Here]
+**📹 [Watch Full Demo Video](https://drive.google.com/file/d/1--IZwGEP3wqeBIDvUdGMMIwtv6bH6FSv/view?usp=sharing)**
 
 **What the demo covers:**
 - Complete application walkthrough
@@ -293,9 +297,10 @@ REACT_APP_API_URL=your_backend_url
 
 ## 🔗 **Live Demo**
 
-- **Frontend**: [Your Vercel/Netlify URL]
-- **Backend API**: [Your Render/Railway URL]
-- **GitHub Repository**: https://github.com/your-username/OutFlo-Assignment
+- **Frontend**: [https://out-flow-io.vercel.app/](https://out-flow-io.vercel.app/)
+- **Backend API**: [https://outflow-io.onrender.com/api](https://outflow-io.onrender.com/api)
+- **Health Check**: [https://outflow-io.onrender.com/health](https://outflow-io.onrender.com/health)
+- **GitHub Repository**: https://github.com/Temp-insta/OutFlow-io
 
 ---
 
