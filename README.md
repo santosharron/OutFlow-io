@@ -18,6 +18,7 @@
 ## 🎬 **Demo Video**
 
 **📹 [Watch Full Demo Video](https://drive.google.com/file/d/1--IZwGEP3wqeBIDvUdGMMIwtv6bH6FSv/view?usp=sharing)**
+**🎥 [LinkedIn Profile Scraping Demo Video](https://www.loom.com/share/686c177b600749379d59e4cbfcf9d13a?sid=0e7d5827-5fef-40f4-bea6-f1e71a0bde51)
 
 **What the demo covers:**
 - Complete application walkthrough
